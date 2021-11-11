@@ -1,0 +1,42 @@
+@import "shared/settings.rasi"
+
+* {
+    icon-font: "feather 18";
+    background-color: @bg;
+}
+
+window {
+    width: 400px;
+    height: 320px; 
+    location: east;
+    x-offset: -480px;
+    border-radius: 8px;
+    border: 2px;
+    color: #404040;
+}
+
+mainbox {
+    children: [listview];
+}
+
+listview {
+    spacing: 15px;
+    columns: 1;
+    lines: 3;
+    children: [element-text];
+}
+
+element-text {
+    background-color: @bg-semilight;
+    horizontal-align: 0.5;
+    padding: 24px 10px;
+    font: @icon-font;
+    border-radius: 10px;
+    color: @fg-unhover;
+    cursor: pointer;
+}
+
+element-text selected {
+    background-color: @bg-hover;
+    color: @fg-hover;
+}
