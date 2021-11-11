@@ -86,6 +86,6 @@ git clone https://github.com/zsh-users/zsh-completions.git ${ZSH_CUSTOM:=~/.oh-m
 
   ### :heart: Credits
 
-- [H4cknet Community - Feedback and somethings ideas](https://discord.com/invite/u3dsh9M)
+- [H4ckNet Community - Feedback and somethings ideas](https://discord.com/invite/u3dsh9M)
 - [@Joni - Amazing rofi themes](https://github.com/joni22u)
 - [@Yorkox - Inspiration](https://github.com/yorkox0)
