@@ -5,10 +5,10 @@
 
 [![N|Solid](https://i.imgur.com/J6vJk9Z.png)](https://nodesource.com/products/nsolid)
 
-[![Gallery](https://img.shields.io/badge/Gallery-000?style=for-the-badge)](https://github.com/bleyom/dotfiles#installation)
-[![Installation](https://img.shields.io/badge/Installation-000?style=for-the-badge)](https://github.com/bleyom/dotfiles#installation)
-[![Keybinds](https://img.shields.io/badge/Keybinds-000?style=for-the-badge)](https://github.com/bleyom/dotfiles#shortcuts)
-[![Color Scheme](https://img.shields.io/badge/ColorScheme-000?style=for-the-badge)](https://github.com/bleyom/dotfiles#scheme)
+[![Gallery](https://img.shields.io/badge/Gallery-000?style=for-the-badge)](https://github.com/Bleyom/B-L-3#installation)
+[![Installation](https://img.shields.io/badge/Installation-000?style=for-the-badge)](https://github.com/Bleyom/B-L-3#installation)
+[![Keybinds](https://img.shields.io/badge/Keybinds-000?style=for-the-badge)](https://github.com/Bleyom/B-L-3#shortcuts)
+[![Color Scheme](https://img.shields.io/badge/ColorScheme-000?style=for-the-badge)](https://github.com/Bleyom/B-L-3#scheme)
 
 - **Distro :** Artix Linux
 - **WM :** Bspwm
