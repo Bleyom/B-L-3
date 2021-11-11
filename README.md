@@ -18,3 +18,74 @@
 - **Notification :** Dunst
 - **App launcher :** Rofi
 - **File manager :** Thunar
+
+### 🔨: Installation
+
+<details>
+  <summary>Arch based distro</summary>
+  
+# Pls create a backup of your actuall config after install B-L-3
+  
+> :exclamation: AUR helper = yay
+```bash
+yay -S dunst bspwm sxhkd gsimplecal rofi feh lxappearance qt5ct qt5-styleplugins lxsession xautolock xclip scrot thunar thunar-archive-plugin thunar-media-tags-plugin thunar-volman lxsession tumbler jq w3m geany nano vim viewnior pavucontrol parcellite neofetch htop zsh picom gtk2-perl xfce4-power-manager imagemagick playerctl networkmanager-dmenu xsettingsd mpv
+```
+> **oh-my-zsh install**
+```bash
+chsh -s `which zsh`
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+git clone https://github.com/zsh-users/zsh-autosuggestions.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+git clone https://github.com/zsh-users/zsh-completions.git ${ZSH_CUSTOM:=~/.oh-my-zsh/custom}/plugins/zsh-completions
+```
+### Config installer 
+
+- ```bash
+  git clone https://github.com/Bleyom/B-L-3/
+  ```
+- ```bash
+  cd B-L-3/ && cp bspwm/ ~/.config/bspwm
+  cp rofi/ ~/.config/
+  cp picom/ ~/.config/
+  cp dunst/ ~/.config/
+  cp sxhkd/ ~/.config/
+  cp neofetch/ ~/.config/
+  cp kitty/ ~/.config/
+  ```
+  ```bash
+  cp backgrounds ~/.backgrounds
+  ```
+  
+  ```bash
+  cp scripts/ ~/.scripts
+  ```
+  
+</details>
+
+</details>
+
+## Basic Keybinds
+
+<details>
+  <summary>Click for detail</summary>
+
+| Key                                    | Action                                  |
+| -------------------------------------- | --------------------------------------- |
+| <kbd>Mod + Space                       | Launch Rofi Dmenu                       |
+| <kbd>Mod + C                           | Close Windows                           |
+| <kbd>Mod + Shift + Space               | Toggle Tiling Mode                      |
+| <kbd>Mod + Left Click (hold)           | Move Windows                            |
+| <kbd>Mod + Right Click (hold)          | Resize Windows                          |
+| <kbd>Mod + 1/2/3/4/5/6/7/8/9/0         | Change Workspace                        |
+| <kbd>Mod + Shift + 1/2/3/4/5/6/7/8/9/0 | Move active windows to workspace number |
+| <kbd>Mod + Return                      | Open terminal                           |
+| <kbd>Ctrl + alt + R                    | WM Restart                              |
+| <kbd>Mod + shift + C                   | Screenshot Menu                         |
+
+</details>
+
+  ### :heart: Credits
+
+- [H4cknet Community - Feedback and somethings ideas](https://discord.com/invite/u3dsh9M)
+- [@Joni - Amazing rofi themes](https://github.com/joni22u)
+- [@Yorkox - Inspiration](https://github.com/yorkox0)
