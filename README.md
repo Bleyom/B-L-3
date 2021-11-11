@@ -86,10 +86,11 @@ git clone https://github.com/zsh-users/zsh-completions.git ${ZSH_CUSTOM:=~/.oh-m
 </details>
 
   ## Color Scheme
-  
-  ## Galery
   ![colors](https://i.imgur.com/ospcCBy.png)
   
+  
+  ## Galery
+
   ![thunar](https://i.imgur.com/NjoYuyN.png)
   ![terminal](https://i.imgur.com/GPMc69y.png)
   
