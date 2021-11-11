@@ -7,7 +7,7 @@
 
 [![Gallery](https://img.shields.io/badge/Gallery-000?style=for-the-badge)](https://github.com/Bleyom/B-L-3#gallery)
 [![Installation](https://img.shields.io/badge/Installation-000?style=for-the-badge)](https://github.com/Bleyom/B-L-3#-installation)
-[![Keybinds](https://img.shields.io/badge/Keybinds-000?style=for-the-badge)]https://github.com/Bleyom/B-L-3/blob/main/README.md#basic-keybinds)
+[![Keybinds](https://img.shields.io/badge/Keybinds-000?style=for-the-badge)](https://github.com/Bleyom/B-L-3/blob/main/README.md#basic-keybinds)
 [![Color Scheme](https://img.shields.io/badge/ColorScheme-000?style=for-the-badge)](https://github.com/Bleyom/B-L-3#scheme)
 
 - **Distro :** Artix Linux
