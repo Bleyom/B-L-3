@@ -85,6 +85,11 @@ git clone https://github.com/zsh-users/zsh-completions.git ${ZSH_CUSTOM:=~/.oh-m
 
 </details>
 
+  ## Galery
+  
+  ![thunar](https://i.imgur.com/NjoYuyN.png)
+  ![terminal](https://i.imgur.com/GPMc69y.png)
+  
   ### :heart: Credits
 
 - [H4ckNet Community - Feedback and somethings ideas](https://discord.com/invite/u3dsh9M)
