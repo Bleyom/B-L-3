@@ -18,6 +18,7 @@
 - **Notification :** Dunst
 - **App launcher :** Rofi
 - **File manager :** Thunar
+- **Gtk Theme :** Kripton
 
 ### 🔨: Installation
 
