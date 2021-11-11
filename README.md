@@ -10,4 +10,11 @@
 [![Keybinds](https://img.shields.io/badge/Keybinds-000?style=for-the-badge)](https://github.com/bleyom/dotfiles#shortcuts)
 [![Color Scheme](https://img.shields.io/badge/ColorScheme-000?style=for-the-badge)](https://github.com/bleyom/dotfiles#scheme)
 
-
+- **Distro :** Artix Linux
+- **WM :** Bspwm
+- **Terminal :** Kitty
+- **Shell :** Zsh
+- **Status Bar :** Polybar
+- **Notification :** Dunst
+- **App launcher :** Rofi
+- **File manager :** Thunar
