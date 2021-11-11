@@ -7,7 +7,7 @@
 
 [![Gallery](https://img.shields.io/badge/Gallery-000?style=for-the-badge)](https://github.com/Bleyom/B-L-3#gallery)
 [![Installation](https://img.shields.io/badge/Installation-000?style=for-the-badge)](https://github.com/Bleyom/B-L-3#-installation)
-[![Keybinds](https://img.shields.io/badge/Keybinds-000?style=for-the-badge)](https://github.com/Bleyom/B-L-3#shortcuts)
+[![Keybinds](https://github.com/Bleyom/B-L-3/blob/main/README.md#basic-keybinds)
 [![Color Scheme](https://img.shields.io/badge/ColorScheme-000?style=for-the-badge)](https://github.com/Bleyom/B-L-3#scheme)
 
 - **Distro :** Artix Linux
@@ -85,13 +85,16 @@ git clone https://github.com/zsh-users/zsh-completions.git ${ZSH_CUSTOM:=~/.oh-m
 
 </details>
 
+  ## Color Scheme
+  
   ## Galery
+  ![colors](https://i.imgur.com/ospcCBy.png)
   
   ![thunar](https://i.imgur.com/NjoYuyN.png)
   ![terminal](https://i.imgur.com/GPMc69y.png)
   
   ### :heart: Credits
-
+   
 - [H4ckNet Community - Feedback and somethings ideas](https://discord.com/invite/u3dsh9M)
 - [@Yorkox - Inspiration](https://github.com/yorkox0)
 - [@Joni - Amazing rofi themes](https://github.com/joni22u)
