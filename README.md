@@ -1,6 +1,6 @@
 # _B-L-3 (completely unrelated name) based on monochromatic colors_
 
-![yes](https://i.imgur.com/wfJYzAK.png)
+![yes](https://i.imgur.com/OfPkKXV.png)
 ## _Preview_
 
 [![N|Solid](https://i.imgur.com/J6vJk9Z.png)](https://youtu.be/IYcFIgag4DY)
