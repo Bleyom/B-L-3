@@ -22,7 +22,6 @@
 
 ### 🔨: Installation
 
-<details>
   <summary>Arch based distro</summary>
   
 # Pls create a backup of your actuall config after install B-L-3
@@ -61,13 +60,10 @@ git clone https://github.com/zsh-users/zsh-completions.git ${ZSH_CUSTOM:=~/.oh-m
   cp scripts/ ~/.scripts
   ```
   
-</details>
-
-</details>
 
 ## Basic Keybinds
 
-<details>
+
   <summary>Click for detail</summary>
 
 | Key                                    | Action                                  |
@@ -83,7 +79,6 @@ git clone https://github.com/zsh-users/zsh-completions.git ${ZSH_CUSTOM:=~/.oh-m
 | <kbd>Ctrl + alt + R                    | WM Restart                              |
 | <kbd>Mod + shift + C                   | Screenshot Menu                         |
 
-</details>
 
   ## Color Scheme
   ![colors](https://i.imgur.com/ospcCBy.png)
