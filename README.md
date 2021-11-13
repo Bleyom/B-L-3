@@ -90,4 +90,4 @@ git clone https://github.com/zsh-users/zsh-completions.git ${ZSH_CUSTOM:=~/.oh-m
    
 - [H4ckNet Community - Feedback and somethings ideas](https://discord.com/invite/u3dsh9M)
 - [@Yorkox - Inspiration](https://github.com/yorkox0)
-- [@Joni - Amazing rofi themes](https://github.com/joni22u)
+- [@Joni - Amazing rofi themes (Acounts deleted idk why )](https://github.com/joni22u) 
