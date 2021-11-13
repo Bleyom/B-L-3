@@ -63,9 +63,6 @@ git clone https://github.com/zsh-users/zsh-completions.git ${ZSH_CUSTOM:=~/.oh-m
 
 ## Basic Keybinds
 
-
-  <summary>Click for detail</summary>
-
 | Key                                    | Action                                  |
 | -------------------------------------- | --------------------------------------- |
 | <kbd>Mod + Space                       | Launch Rofi Dmenu                       |
