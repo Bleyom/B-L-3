@@ -44,13 +44,13 @@ git clone https://github.com/zsh-users/zsh-completions.git ${ZSH_CUSTOM:=~/.oh-m
   git clone https://github.com/Bleyom/B-L-3/
   ```
 - ```bash
-  cd B-L-3/ && cp bspwm/ ~/.config/bspwm
-  cp rofi/ ~/.config/
-  cp picom/ ~/.config/
-  cp dunst/ ~/.config/
-  cp sxhkd/ ~/.config/
-  cp neofetch/ ~/.config/
-  cp kitty/ ~/.config/
+  cd B-L-3/ && cp -r bspwm/ ~/.config/bspwm
+  cp -r rofi/ ~/.config/
+  cp -r picom/ ~/.config/
+  cp -r dunst/ ~/.config/
+  cp -r sxhkd/ ~/.config/
+  cp -r neofetch/ ~/.config/
+  cp -r kitty/ ~/.config/
   ```
   ```bash
   cp backgrounds ~/.backgrounds
